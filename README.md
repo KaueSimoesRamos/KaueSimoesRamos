@@ -1,8 +1,8 @@
 <!-- ### Olá 👋 -->
 
 # :man_technologist: Kaue Ramos
-[![Linkedin Badge](https://img.shields.io/badge/-MiguelBatista-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelbatistaribeiro/)](https://www.linkedin.com/in/kaue-simoes-ramos/)
-[![Gmail Badge](https://img.shields.io/badge/-kaue.ramos1999@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaue.ramos1999@gmail.com)](https://www.gmail.com/)(#)
+[![Linkedin Badge](https://img.shields.io/badge/-KaueRamos-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelbatistaribeiro/)](https://www.linkedin.com/in/kaue-simoes-ramos/)
+[![Gmail Badge](https://img.shields.io/badge/-kaue.ramos1999@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kaue.ramos1999@gmail.com)](https://www.gmail.com/)
 
 <div style="display:flex; flex-direction=row">
 <a href="https://github.com/kauesimoesramos"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=kauesimoesramos&show_icons=true&count_private=true&theme=dark" /></a><a href="https://github.com/kauesimoesramos/">
@@ -37,5 +37,5 @@ Em 2021 iniciei
 Você programador que deseja treinar a sua lógica e aperfeiçoar suas habilidades deixo aqui a dica de três sites ótimos para você se desenvolver.
 
 - [Udemy](https://www.udemy.com/join/login-popup/?next=/course/programacao-orientada-a-objetos-csharp/learn/lecture/20039046#overview)
-- [Alura] (https://www.alura.com.br)
-- [Origamid] (https://www.origamid.com/)
+- [Alura](https://www.alura.com.br)
+- [Origamid](https://www.origamid.com/)
