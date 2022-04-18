@@ -16,7 +16,7 @@
 <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
 
 ### 📖 Sobre mim
-Em 2021 iniciei   
+Em 2021 iniciei na Univerdidade Nove de Julho  
 
 </details>
 
